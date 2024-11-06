@@ -23,7 +23,7 @@ Get a quick look at the interface below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TrekBag.git
+   git clone https://github.com/AzadMahmud/trekbag.git
    ```
 2. Navigate to the project directory:
    ```bash
